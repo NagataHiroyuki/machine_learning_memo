@@ -1,2 +1,2 @@
 # machine_learning_memo
-machine_learningを本で勉強したときの学習記録。ファイルはほんのセクション。
+machine_learningを本で勉強したときの学習記録。ファイルは本のセクションごとに。
